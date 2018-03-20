@@ -1,1 +1,1 @@
-# agilego.doc
+Please see wiki
